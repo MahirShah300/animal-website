@@ -1,9 +1,10 @@
 body {
-    background-color: lightgreen;
+    background-color: #F2E8D5;
     font-family: Arial, sans-serif;
 }
 h1 {
-    color: darkgreen;
+    color: #355E3B;
+    text-align: center;
 }
 p {
     font-size: 18px;
